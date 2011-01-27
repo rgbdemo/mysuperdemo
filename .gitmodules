@@ -1,0 +1,3 @@
+[submodule "nestk"]
+	path = nestk
+	url = https://github.com/nburrus/nestk.git
