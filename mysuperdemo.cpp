@@ -10,7 +10,7 @@ int main()
   KinectGrabber grabber;
   grabber.initialize();
   // Set camera tilt.
-  grabber.setTiltAngle(15);
+  grabber.setTiltAngle(0);
   grabber.start();
 
   // Postprocess raw kinect data.
